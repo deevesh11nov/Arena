@@ -1,0 +1,9 @@
+{
+  "name": "arena-prj-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/arena-prj-e2e/src",
+  "implicitDependencies": ["arena-prj"],
+  "// targets": "to see all targets run: nx show project arena-prj-e2e --web",
+  "targets": {}
+}
